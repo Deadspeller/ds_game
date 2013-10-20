@@ -23,16 +23,16 @@ Makefile:
 +----------------------+
 |Controlls in the Game:|
 +----------------------+
-WASD		-	Movement
-Mouse		-	Camera
-"SPACE" 	-	Jumping
-"F"		- 	Free-Flying
-"G"		-	Normal Gravity
-"ESC"		- 	Exit-Game
-"C"		-	Sneak
-"Y"		-	Lay-Down
-LMouse 	- 	Shoot a red Ball
-RMouse	-	Zoom
+- WASD		-	Movement
+- Mouse		-	Camera
+- "SPACE" 	-	Jumping
+- "F"		- 	Free-Flying
+- "G"		-	Normal Gravity
+- "ESC"		- 	Exit-Game
+- "C"		-	Sneak
+- "Y"		-	Lay-Down
+- LMouse 	- 	Shoot a red Ball
+- RMouse	-	Zoom
 
 
 +-----------+
