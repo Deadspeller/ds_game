@@ -14,10 +14,10 @@ You probably need the following Librarys:
 +-----------------+
 
 Makefile:
-	- "$ make" to compile and then start the game	
-	- "$ make install" to compile the game
-	- "$ make run" to start the game
-	- "$ make count" to count all the lines of code
+- "$ make" to compile and then start the game	
+- "$ make install" to compile the game
+- "$ make run" to start the game
+- "$ make count" to count all the lines of code
 
 
 +----------------------+
