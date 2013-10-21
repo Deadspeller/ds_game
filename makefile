@@ -14,6 +14,10 @@ install: main.cpp include/SOIL/SOIL.h include/Timer.h include/world.h include/te
 
 #	g++ -m32 -o $(FILE)_64bit main.cpp include/SOIL/libSOIL.a -lsfml-window -lsfml-system -lGLU -lGLEW -lGL -lSOIL
 
+setup:
+	sudo apt-get install libsfml-dev 
+	sudo apt-get install libglew-dev
+	sudo apt-get install freeglut3-dev
 
 run: 	$(OUTPUTFILE)
 	./$(OUTPUTFILE)
